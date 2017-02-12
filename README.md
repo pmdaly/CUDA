@@ -1,4 +1,4 @@
-CUDA
+CUDA Reference
 ===
 This repo is mostly meant to be a reference so I can quickly look up how to
 implement parallel versions of common algorithms or techniques.
